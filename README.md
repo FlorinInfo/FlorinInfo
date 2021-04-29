@@ -37,7 +37,12 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - 💬 Ask me about anything, I am happy to help;
--  <a href="https://discord.gg/XTW52Kt"><img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a><a href="https://discord.gg/XTW52Kt"><img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a><a href="https://discord.gg/XTW52Kt"><img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a><a href="https://discord.gg/XTW52Kt"><img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a><a href="https://discord.gg/XTW52Kt"><img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
+-  <a href="https://www.linkedin.com/in/abhisheknaiidu/">
+      <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+   </a>
+   <a href="https://www.linkedin.com/in/abhisheknaiidu/">
+      <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    </a>
 
 - 📝 
 
