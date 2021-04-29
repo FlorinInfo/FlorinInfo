@@ -29,6 +29,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="ESLINT" src="https://img.shields.io/badge/-ESLint-4b32c3?style=flat-square&logo=eslint&logoColor=white" />
+  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-black?style=flat-square&logo=cypress&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-bc1224?style=flat-square&logo=jest&logoColor=white" />
 </p>
 
 
