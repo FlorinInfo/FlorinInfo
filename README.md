@@ -46,9 +46,14 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <a href="https://www.facebook.com/bucataru.florin.71/">
       <img align="left" alt="Florin's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
   </a>
-    <a href="https://www.facebook.com/bucataru.florin.71/">
-      <img align="left" alt="Florin's Facebook" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
+    <a href="https://www.instagram.com/florin_b16/">
+      <img align="left" alt="Florin's Insta" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
   </a>
+  
+  <br>
+  <br>
+  <br>
+  <br>
 
 📈 My GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FlorinInfo&show_icons=true&theme=gotham" alt="FlorinInfo" />
