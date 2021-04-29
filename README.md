@@ -13,6 +13,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="Gulp" src="https://img.shields.io/badge/-GULP-DB4446?style=flat-square&logo=GULP&logoColor=white" />
+  <img alt="JS" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=white" />
   
   
   <img alt="html5" src="https://img.shields.io/badge/-Vue-3fb27f?style=flat-square&logo=vue.js&logoColor=white" />
