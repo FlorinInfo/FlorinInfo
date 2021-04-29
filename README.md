@@ -31,6 +31,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img alt="ESLINT" src="https://img.shields.io/badge/-ESLint-4b32c3?style=flat-square&logo=eslint&logoColor=white" />
 </p>
 
+
+
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FlorinInfo&show_icons=true&theme=gotham" alt="FlorinInfo" />
 
 
