@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm Bucataru Florin, a passionate self-taught Full Stack web developer and a freelance software engineer from Romania ![image](https://user-images.githubusercontent.com/48189025/116613374-45908680-a941-11eb-8ae0-ee8624689f51.png)
-. 
+Hi, I'm Bucataru Florin, a passionate self-taught Full Stack web developer and a freelance software engineer from Romania 
+<img src="https://image.flaticon.com/icons/svg/197/197587.svg" width="13"/>. 
 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
