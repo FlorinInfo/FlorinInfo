@@ -43,6 +43,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - <a href="https://ro.linkedin.com/in/florin-bucataru-673664201">
       <img align="left" alt="Florin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
+  <a href="https://www.facebook.com/bucataru.florin.71/">
+      <img align="left" alt="Florin's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  </a>
 
 
 📈 My GitHub Stats
