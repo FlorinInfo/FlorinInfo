@@ -47,7 +47,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
       <img align="left" alt="Florin's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
   </a>
 
-
 📈 My GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=FlorinInfo&show_icons=true&theme=gotham" alt="FlorinInfo" />
 
