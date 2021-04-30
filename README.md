@@ -54,7 +54,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
       <img align="left" alt="Florin's Insta" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
   </a>
       <a href="https://www.instagram.com/florin_b16/">
-      <img align="left" alt="Florin's Insta" width="22px" src="https://www.pngitem.com/pimgs/m/40-404856_transparent-whatsapp-icon-transparent-png-circle-logo-whatsapp.png" />
+      <img align="left" alt="Florin's Insta" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/733/733585.svgtoken=exp=1619768192~hmac=dad994e8fe0efc54a838c39aad2a2245" />
   </a>
   
   <br>
