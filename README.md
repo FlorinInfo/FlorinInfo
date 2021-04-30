@@ -15,6 +15,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-080135?style=flat-square&logo=Bootstrap&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="Gulp" src="https://img.shields.io/badge/-GULP-DB4446?style=flat-square&logo=GULP&logoColor=white" />
+  <img alt="pUG" src="https://img.shields.io/badge/-PUG-56342a?style=flat-square&logo=PUG&logoColor=white" />
   <img alt="JS" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="jQUERY" src="https://img.shields.io/badge/-jQuery-0769ad?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
