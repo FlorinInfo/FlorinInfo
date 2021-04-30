@@ -53,6 +53,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     <a href="https://www.instagram.com/florin_b16/">
       <img align="left" alt="Florin's Insta" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
   </a>
+      <a href="https://www.instagram.com/florin_b16/">
+      <img align="left" alt="Florin's Insta" width="22px" src="https://www.vhv.rs/dpng/d/417-4171168_whatsapp-logo-download-logo-whatsapp-icon-png-transparent.png" />
+  </a>
   
   <br>
   <br>
