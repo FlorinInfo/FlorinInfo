@@ -62,8 +62,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 📈 My GitHub Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=FlorinInfo&show_icons=true&theme=gotham" alt="FlorinInfo" />
-  <a href = "https://github.com/gaby911?tab=repositories">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FlorinInfo&langs_count=10&theme=dark&layout=compact&card_width=270" align = "right" />
+  <a href = "https://github.com/FlorinInfo?tab=repositories">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FlorinInfo&langs_count=10&theme=dark&layout=compact&card_width=370" align = "right" />
   </a>
   </p>
 
