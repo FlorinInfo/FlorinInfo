@@ -70,7 +70,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   </p>
   
   <a href = "https://github.com/FlorinInfo?tab=repositories">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FlorinInfo&langs_count=10&theme=dark&layout=compact" align = "right" />
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=FlorinInfo&langs_count=10&theme=dark"  align = "right" />
   </a>
 
 
