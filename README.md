@@ -1,7 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm Bucataru Florin, a passionate self-taught Full Stack web developer and a freelance software engineer from Romania 
-<img src="https://image.flaticon.com/icons/svg/197/197587.svg" width="13"/>. 
+Hi, I'm Bucataru Florin, a passionate self-taught Full Stack web developer and a freelance software engineer from Romania.
 My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
@@ -54,9 +53,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   </a>
     <a href="https://www.instagram.com/florin_b16/">
       <img align="left" alt="Florin's Insta" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
-  </a>
-      <a href="https://wa.me/+40758523857">
-      <img style="border-radius:101px;" align="left" alt="Florin's Insta" width="22px" src="https://image.flaticon.com/icons/png/512/124/124034.png" />
   </a>
   
   <br>
